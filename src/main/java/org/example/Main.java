@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {  // The Main class should be declared here
+public class Main {
 
     public static void main(String[] args) {
         // Medikamente erstllen
