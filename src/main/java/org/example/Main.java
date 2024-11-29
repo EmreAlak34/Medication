@@ -8,7 +8,7 @@ package org.example;
         Medication med2 = new Medication("Ibuprofen", 12.50, false);
         Medication med3 = new Medication("Paracetamol", 4.50, true);
 
-        // Create a pharmacy and add medications
+
         Pharmacy pharmacy = new Pharmacy();
         pharmacy.save(med1);
         pharmacy.save(med2);
